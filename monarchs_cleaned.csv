@@ -1,0 +1,45 @@
+Monarch,No. of Years,First regnal year,Regnal year start date,Regnal year end date,End of final year,Cleaned Years,Cleaned Start dates,Cleaned end date,Claim
+William I,21,1066,14 October,13 October,9 Sep 1087,21,14 October,9 Sep 1087,conquest
+William II,13,1087,26 September,25 September,2 Aug 1100,13,26 September,2 Aug 1100,inherited
+Henry I,36,1100,5 August,4 August,1 Dec 1135,36,5 August,1 Dec 1135,inherited
+Stephen,19,1135,26 December,25 December,25 Oct 1154,19,26 December,25 Oct 1154,usurped
+Henry II,35,1154,19 December,18 December,6 Jul 1189,35,19 December,6 Jul 1189,treaty
+Richard I,10,1189,3 September,2 September,6 Apr 1199,10,3 September,6 Apr 1199,treaty
+John,18,1199,May (Ascension Day)A,May (varied),19 Oct 1216,18,1 May,19 Oct 1216,usurped
+Henry III,57,1216,28 October,27 October,16 Nov 1272,57,28 October,16 Nov 1272,inherited
+Edward I,35,1272,20 November,20 November B,7 Jul 1307,35,20 November,7 Jul 1307,inherited
+Edward II,20,1307,8 July,7 July,20 Jan 1327,20,8 July,20 Jan 1327,inherited
+Edward III,"51 (England),
+38 (France) C",1327,25 January,24 January,21 Jun 1377,51,25 January,21 Jun 1377,inherited
+Richard II,23,1377,22 June D,21 June,29 Sep 1399,23,22 June,29 Sep 1399,inherited
+Henry IV,14,1399,30 September,29 September,20 Mar 1413,14,30 September,20 Mar 1413,usurped
+Henry V,10,1413,21 March,20 March,31 Aug 1422,10,21 March,31 Aug 1422,inherited
+Henry VI,39 + 1 E,1422,1 September,31 August,4 Mar 1461,39,1 September,4 Mar 1461,inherited
+Edward IV,23,1461,4 March,3 March,9 Apr 1483,23,4 March,9 Apr 1483,usurped
+Edward V,1,1483,9 April,25 June,25 Jun 1483,1,9 April,25 Jun 1483,inherited
+Richard III,3,1483,26 June,25 June,22 Aug 1485,3,26 June,22 Aug 1485,usurped
+Henry VII,24,1485,22 August,21 August,21 Apr 1509,24,22 August,21 Apr 1509,inherited
+Henry VIII,38,1509,22 April,21 April,28 Jan 1547,38,22 April,28 Jan 1547,inherited
+Edward VI,7,1547,28 January,27 January,6 Jul 1553,7,28 January,6 Jul 1553,inherited
+Mary I,2,1553,6 July F,5 July,24 Jul 1554 G,2,6 July,24 Jul 1558,usurped
+Elizabeth I,45,1558,17 November,16 November,24 Mar 1603,45,17 November,24 Mar 1603,inherited
+James I,23,1603,25 March H,24 March,27 Mar 1625,23,25 March,27 Mar 1625,inherited
+Charles I,24,1625,27 March,26 March,30 Jan 1649,24,27 March,30 Jan 1649,inherited
+Charles II,37 I,1649,30 January,29 January,6 Feb 1685,37,30 January,6 Feb 1685,inherited
+James II,4,1685,6 February,5 February,11 Dec 1688 J,4,6 February,11 Dec 1688,inherited
+"""William and Mary""",6,1689,13 FebruaryK,12 February,27 Dec 1694,6,13 February,27 Dec 1694,usurped
+William III,"8
+(7 to 14) L",1694,28 December L,27 December,8 Mar 1702,8,28 December,8 Mar 1702,inherited
+Anne,13,1702,8 March,7 March,1 Aug 1714,13,8 March,1 Aug 1714,inherited
+George I,13,1714,1 August,31 July,11 Jun 1727,13,1 August,11 Jun 1727,inherited
+George II,34,1727,11 June,10 June,25 Oct 1760,34,11 June,25 Oct 1760,inherited
+George III,60 M,1760,25 October,24 October,29 Jan 1820,60,25 October,29 Jan 1820,inherited
+George IV,11 N,1820,29 January,28 January,26 Jun 1830,11,29 January,26 Jun 1830,inherited
+William IV,7,1830,26 June,25 June,20 Jun 1837,7,26 June,20 Jun 1837,inherited
+Victoria,64,1837,20 June,19 June,22 Jan 1901,64,20 June,22 Jan 1901,inherited
+Edward VII,10,1901,22 January,21 January,6 May 1910,10,22 January,6 May 1910,inherited
+George V,26,1910,6 May,5 May,20 Jan 1936,26,6 May,20 Jan 1936,inherited
+Edward VIII,1,1936,20 January,11 December,11 Dec 1936,1,20 January,11 Dec 1936,inherited
+George VI,16,1936,11 December,10 December,5 Feb 1952,16,11 December,5 Feb 1952,inherited
+Elizabeth II,"(ongoing;
+2017 = 65 Eliz. 2 – 66 Eliz. 2)",1952,6 February,5 February,,65,6 February,,inherited
